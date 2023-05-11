@@ -1,0 +1,48 @@
+
+body{
+   background-color: rgb(158, 125, 125);
+}
+.imagen{
+width: 30vw;
+height: 60vh;
+
+}
+h2,.pokemon{
+
+    display: inline-block;
+}
+.pokemon{
+   
+
+text-align: center;
+width: 30vw;
+margin-left: 5vw;
+margin-right: 5vw;
+
+}
+.progress{
+   
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+h1{
+   font-size: 2vw; 
+     text-align: center;
+}
+
+button{
+
+    font-size: 2vw;
+}
+
+#player1{
+    position: absolute;
+    top:10vh;
+    left:0vw;
+}
+#player2{
+    position: absolute;
+    top:10vh;
+    right:10vw;
+}
